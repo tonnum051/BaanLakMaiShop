@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BaanLakMai</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">หน้าเกี่ยวกับเรา</string>
+    <string name="account">หน้าบัญชีของฉัน</string>
+    <string name="navigation_drawer_open">เปิดเมนู</string>
+    <string name="navigation_drawer_close">ปิดเมนู</string>
+    <string name="addproduct">เพิ่มสินค้า</string>
+    <string name="home">หน้าหลัก</string>
+    <string name="notification">หน้าแจ้งเตือน</string>
+    <string name="product">หน้าสินค้า</string>
+    <string name="service">หน้าบริการ</string>
+    <string name="setting">หน้าตี้งค่า</string>
+    <string name="About">เกี่ยวกับเรา</string>
+    <string name="Service">บริการ</string>
+    <string name="Setting">ตั้งค่า</string>
+    <string name="Signout">ิออกจากระบบ</string>
+    <string name="Home">หน้าหลัก</string>
+    <string name="Product">หน้าสินค้า</string>
+    <string name="Addproduct">ลงประกาศ</string>
+    <string name="Notification">แจ้งเตือน</string>
+    <string name="Account">ฉัน</string>
+    <string name="Kittisak">กิตติศักดิ์ บุตราช</string>
+    <string name="IT">สาขาเทคโนโลยีสารสนเทศ</string>
+    <string name="BLM">BaanLakMai</string>
+    <string name="logo">Logo</string>
+    <string name="baan_lak_mai">Baan Lak Mai</string>
+    <string name="stock">สินค้า</string>
+    <string name="add_product">หน้าเพิ่มสินค้า</string>
+    <string name="add_name_product">เพิ่มชื่อสินค้า</string>
+    <string name="name_product">ชื่อสินค้า</string>
+    <string name="price">ราคา</string>
+    <string name="add_price">ใส่ราคา</string>
+    <string name="save">บันทึกสินค้า</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="amount">จำนวน</string>
+    <string name="edit">แก้ไขสินค้า</string>
+    <string name="picture">เลือกรูป</string>
+    <string name="Edit">+</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_main2">Leanback MainActivity2</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="product_image">รูปสินค้า</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+</resources>

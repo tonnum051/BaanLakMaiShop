@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="หน้าแรก"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/productFragment"
+        android:title="สินค้า"
+        android:icon="@drawable/ic_product"/>
+
+    <item
+        android:id="@+id/addProductFragment"
+        android:title="เพิ่มสินค้า"
+        android:icon="@drawable/ic_add"/>
+
+</menu>

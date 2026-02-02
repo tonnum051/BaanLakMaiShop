@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- พื้นฐาน -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- พื้นหลัง -->
+    <color name="cream_background">#FFF8E1</color>
+
+    <!-- โทนเขียว -->
+    <color name="light_green">#C8E6C9</color>
+    <color name="medium_green">#4CAF50</color>
+    <color name="dark_green">#2E7D32</color>
+
+    <!-- Gradient -->
+    <color name="background_gradient_start">#A5D6A7</color>
+    <color name="background_gradient_end">#E8F5E9</color>
+
+</resources>
