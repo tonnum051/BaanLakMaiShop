@@ -62,7 +62,14 @@ class AddProductFragment : Fragment(R.layout.fragment_add_product) {
                 ).show()
                 return@setOnClickListener
             }
-
+            if (imageUri == null) {
+                Toast.makeText(
+                    requireContext(),
+                    "กรุณาเลือกรูปภาพสินค้า",
+                    Toast.LENGTH_SHORT
+                ).show()
+                return@setOnClickListener
+            }
             val product = Product(
                 name = name,
                 price = price,
